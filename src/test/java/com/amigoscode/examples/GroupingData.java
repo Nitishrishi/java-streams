@@ -32,8 +32,8 @@ public class GroupingData {
                 "John",
                 "Mariam",
                 "Alex",
-                "Mohammado",
-                "Mohammado",
+                "Mohammad",
+                "Mohammad",
                 "Vincent",
                 "Alex",
                 "Alex"
